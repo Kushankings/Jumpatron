@@ -4,18 +4,18 @@ Jumpatron : It's a Java Based Game Made Using Android Studio and a Game-Developm
 Basically This is Endless Runner Game,
 where you have to tap on screen to jump and try to dodge the virus and collect the mask to score.
 
-#Language Used
+# Language Used
 Java
 
-#Software 
+# Software 
 Android Studio
 
-#framework
+# framework
 LibGdx 
 It is a cross-platform Java game development framework based on OpenGL (ES) that works on
 Windows, Linux, macOS, Android, your browser and iOS.
 
-#Screenshots
+# Screenshots
 
 Homescreen
 
